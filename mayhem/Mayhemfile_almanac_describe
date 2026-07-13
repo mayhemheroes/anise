@@ -1,0 +1,6 @@
+project: anise
+target: almanac_describe
+
+cmds:
+  - cmd: /mayhem/almanac_describe
+    libfuzzer: true
